@@ -163,12 +163,6 @@ main() {
     resize_filesystem
 
     #verify_resize
-<<<<<<< HEAD
-=======
-
-    verify_resize
-
->>>>>>> 33fc0ce3ace898da1115e71dae7e3ed50ee57756
 
     log "Disk extension completed successfully."
 }
